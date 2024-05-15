@@ -1,0 +1,29 @@
+D:\PROG\Курсовик\!vis\MainComp\MainComp\bin\Debug\MainComp.dll
+D:\PROG\Курсовик\!vis\MainComp\MainComp\bin\Debug\MainComp.pdb
+D:\PROG\Курсовик\!vis\MainComp\MainComp\obj\Debug\MainComp.csproj.AssemblyReference.cache
+D:\PROG\Курсовик\!vis\MainComp\MainComp\obj\Debug\MainComp.csproj.CoreCompileInputs.cache
+D:\PROG\Курсовик\!vis\MainComp\MainComp\obj\Debug\MainComp.dll
+D:\PROG\Курсовик\!vis\MainComp\MainComp\obj\Debug\MainComp.pdb
+D:\3IS3\Egorov S\!\Курсовик\!vis\MainComp\MainComp\bin\Debug\MainComp.dll
+D:\3IS3\Egorov S\!\Курсовик\!vis\MainComp\MainComp\bin\Debug\MainComp.pdb
+D:\3IS3\Egorov S\!\Курсовик\!vis\MainComp\MainComp\obj\Debug\MainComp.csprojAssemblyReference.cache
+D:\3IS3\Egorov S\!\Курсовик\!vis\MainComp\MainComp\obj\Debug\MainComp.csproj.CoreCompileInputs.cache
+D:\3IS3\Egorov S\!\Курсовик\!vis\MainComp\MainComp\obj\Debug\MainComp.dll
+D:\3IS3\Egorov S\!\Курсовик\!vis\MainComp\MainComp\obj\Debug\MainComp.pdb
+D:\PROG\!!Курсовик\!vis\MainComp\MainComp\bin\Debug\MainComp.dll
+D:\PROG\!!Курсовик\!vis\MainComp\MainComp\bin\Debug\MainComp.pdb
+D:\PROG\!!Курсовик\!vis\MainComp\MainComp\obj\Debug\MainComp.csproj.AssemblyReference.cache
+D:\PROG\!!Курсовик\!vis\MainComp\MainComp\obj\Debug\MainComp.csproj.CoreCompileInputs.cache
+D:\PROG\!!Курсовик\!vis\MainComp\MainComp\obj\Debug\MainComp.dll
+D:\PROG\!!Курсовик\!vis\MainComp\MainComp\obj\Debug\MainComp.pdb
+D:\3is3\Egorov\!vis (1)\MainComp\MainComp\bin\Debug\MainComp.dll
+D:\3is3\Egorov\!vis (1)\MainComp\MainComp\bin\Debug\MainComp.pdb
+D:\3is3\Egorov\!vis (1)\MainComp\MainComp\obj\Debug\MainComp.csproj.CoreCompileInputs.cache
+D:\3is3\Egorov\!vis (1)\MainComp\MainComp\obj\Debug\MainComp.dll
+D:\3is3\Egorov\!vis (1)\MainComp\MainComp\obj\Debug\MainComp.pdb
+D:\PROG\!!Курсовик\!vis (1)\MainComp\MainComp\bin\Debug\MainComp.dll
+D:\PROG\!!Курсовик\!vis (1)\MainComp\MainComp\bin\Debug\MainComp.pdb
+D:\PROG\!!Курсовик\!vis (1)\MainComp\MainComp\obj\Debug\MainComp.csproj.AssemblyReference.cache
+D:\PROG\!!Курсовик\!vis (1)\MainComp\MainComp\obj\Debug\MainComp.csproj.CoreCompileInputs.cache
+D:\PROG\!!Курсовик\!vis (1)\MainComp\MainComp\obj\Debug\MainComp.dll
+D:\PROG\!!Курсовик\!vis (1)\MainComp\MainComp\obj\Debug\MainComp.pdb

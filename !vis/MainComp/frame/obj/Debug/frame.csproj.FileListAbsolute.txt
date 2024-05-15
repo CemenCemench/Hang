@@ -1,0 +1,67 @@
+D:\PROG\Курсовик\!vis\MainComp\frame\bin\Debug\frame.exe.config
+D:\PROG\Курсовик\!vis\MainComp\frame\bin\Debug\frame.exe
+D:\PROG\Курсовик\!vis\MainComp\frame\bin\Debug\frame.pdb
+D:\PROG\Курсовик\!vis\MainComp\frame\obj\Debug\frame.csproj.AssemblyReference.cache
+D:\PROG\Курсовик\!vis\MainComp\frame\obj\Debug\frame.csproj.SuggestedBindingRedirects.cache
+D:\PROG\Курсовик\!vis\MainComp\frame\obj\Debug\frame.Properties.Resources.resources
+D:\PROG\Курсовик\!vis\MainComp\frame\obj\Debug\frame.csproj.GenerateResource.cache
+D:\PROG\Курсовик\!vis\MainComp\frame\obj\Debug\frame.csproj.CoreCompileInputs.cache
+D:\PROG\Курсовик\!vis\MainComp\frame\obj\Debug\frame.exe
+D:\PROG\Курсовик\!vis\MainComp\frame\obj\Debug\frame.pdb
+D:\PROG\Курсовик\!vis\MainComp\frame\bin\Debug\MainComp.dll
+D:\PROG\Курсовик\!vis\MainComp\frame\bin\Debug\MainComp.pdb
+D:\PROG\Курсовик\!vis\MainComp\frame\obj\Debug\frame.Form1.resources
+D:\PROG\Курсовик\!vis\MainComp\frame\obj\Debug\frame.csproj.CopyComplete
+D:\3IS3\Egorov S\!\Курсовик\!vis\MainComp\frame\bin\Debug\frame.exe.config
+D:\3IS3\Egorov S\!\Курсовик\!vis\MainComp\frame\bin\Debug\frame.exe
+D:\3IS3\Egorov S\!\Курсовик\!vis\MainComp\frame\bin\Debug\frame.pdb
+D:\3IS3\Egorov S\!\Курсовик\!vis\MainComp\frame\bin\Debug\MainComp.dll
+D:\3IS3\Egorov S\!\Курсовик\!vis\MainComp\frame\bin\Debug\MainComp.pdb
+D:\3IS3\Egorov S\!\Курсовик\!vis\MainComp\frame\obj\Debug\frame.csprojAssemblyReference.cache
+D:\3IS3\Egorov S\!\Курсовик\!vis\MainComp\frame\obj\Debug\frame.Form1.resources
+D:\3IS3\Egorov S\!\Курсовик\!vis\MainComp\frame\obj\Debug\frame.Properties.Resources.resources
+D:\3IS3\Egorov S\!\Курсовик\!vis\MainComp\frame\obj\Debug\frame.csproj.GenerateResource.cache
+D:\3IS3\Egorov S\!\Курсовик\!vis\MainComp\frame\obj\Debug\frame.csproj.CoreCompileInputs.cache
+D:\3IS3\Egorov S\!\Курсовик\!vis\MainComp\frame\obj\Debug\frame.csproj.CopyComplete
+D:\3IS3\Egorov S\!\Курсовик\!vis\MainComp\frame\obj\Debug\frame.exe
+D:\3IS3\Egorov S\!\Курсовик\!vis\MainComp\frame\obj\Debug\frame.pdb
+D:\PROG\!!Курсовик\!vis\MainComp\frame\bin\Debug\frame.exe.config
+D:\PROG\!!Курсовик\!vis\MainComp\frame\bin\Debug\frame.exe
+D:\PROG\!!Курсовик\!vis\MainComp\frame\bin\Debug\frame.pdb
+D:\PROG\!!Курсовик\!vis\MainComp\frame\bin\Debug\MainComp.dll
+D:\PROG\!!Курсовик\!vis\MainComp\frame\bin\Debug\MainComp.pdb
+D:\PROG\!!Курсовик\!vis\MainComp\frame\obj\Debug\frame.csproj.AssemblyReference.cache
+D:\PROG\!!Курсовик\!vis\MainComp\frame\obj\Debug\frame.Form1.resources
+D:\PROG\!!Курсовик\!vis\MainComp\frame\obj\Debug\frame.Properties.Resources.resources
+D:\PROG\!!Курсовик\!vis\MainComp\frame\obj\Debug\frame.csproj.GenerateResource.cache
+D:\PROG\!!Курсовик\!vis\MainComp\frame\obj\Debug\frame.csproj.CoreCompileInputs.cache
+D:\PROG\!!Курсовик\!vis\MainComp\frame\obj\Debug\frame.exe
+D:\PROG\!!Курсовик\!vis\MainComp\frame\obj\Debug\frame.pdb
+D:\3is3\Egorov\!vis (1)\MainComp\frame\bin\Debug\frame.exe.config
+D:\3is3\Egorov\!vis (1)\MainComp\frame\bin\Debug\frame.exe
+D:\3is3\Egorov\!vis (1)\MainComp\frame\bin\Debug\frame.pdb
+D:\3is3\Egorov\!vis (1)\MainComp\frame\bin\Debug\MainComp.dll
+D:\3is3\Egorov\!vis (1)\MainComp\frame\bin\Debug\MainComp.pdb
+D:\3is3\Egorov\!vis (1)\MainComp\frame\obj\Debug\frame.csprojAssemblyReference.cache
+D:\3is3\Egorov\!vis (1)\MainComp\frame\obj\Debug\frame.Form1.resources
+D:\3is3\Egorov\!vis (1)\MainComp\frame\obj\Debug\frame.Properties.Resources.resources
+D:\3is3\Egorov\!vis (1)\MainComp\frame\obj\Debug\frame.csproj.GenerateResource.cache
+D:\3is3\Egorov\!vis (1)\MainComp\frame\obj\Debug\frame.csproj.CoreCompileInputs.cache
+D:\3is3\Egorov\!vis (1)\MainComp\frame\obj\Debug\frame.csproj.CopyComplete
+D:\3is3\Egorov\!vis (1)\MainComp\frame\obj\Debug\frame.exe
+D:\3is3\Egorov\!vis (1)\MainComp\frame\obj\Debug\frame.pdb
+D:\PROG\!!Курсовик\!vis (1)\MainComp\frame\bin\Debug\frame.exe.config
+D:\PROG\!!Курсовик\!vis (1)\MainComp\frame\bin\Debug\frame.exe
+D:\PROG\!!Курсовик\!vis (1)\MainComp\frame\bin\Debug\frame.pdb
+D:\PROG\!!Курсовик\!vis (1)\MainComp\frame\bin\Debug\MainComp.dll
+D:\PROG\!!Курсовик\!vis (1)\MainComp\frame\bin\Debug\MainComp.pdb
+D:\PROG\!!Курсовик\!vis (1)\MainComp\frame\obj\Debug\frame.csproj.AssemblyReference.cache
+D:\PROG\!!Курсовик\!vis (1)\MainComp\frame\obj\Debug\frame.Form1.resources
+D:\PROG\!!Курсовик\!vis (1)\MainComp\frame\obj\Debug\frame.Properties.Resources.resources
+D:\PROG\!!Курсовик\!vis (1)\MainComp\frame\obj\Debug\frame.csproj.GenerateResource.cache
+D:\PROG\!!Курсовик\!vis (1)\MainComp\frame\obj\Debug\frame.csproj.CoreCompileInputs.cache
+D:\PROG\!!Курсовик\!vis (1)\MainComp\frame\obj\Debug\frame.exe
+D:\PROG\!!Курсовик\!vis (1)\MainComp\frame\obj\Debug\frame.pdb
+D:\PROG\!!Курсовик\!vis (1)\MainComp\frame\obj\Debug\frame.csproj.Up2Date
+D:\PROG\!!Курсовик\!vis\MainComp\frame\obj\Debug\frame.csproj.Up2Date
+D:\PROG\!!Курсовик\!vis\MainComp\frame\obj\Debug\frame.Form2.resources
