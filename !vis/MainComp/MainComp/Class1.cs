@@ -223,6 +223,7 @@ namespace MainComp
             }
         }
 
+
         public Color SeparatorColor
         {
             get

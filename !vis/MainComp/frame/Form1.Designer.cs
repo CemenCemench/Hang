@@ -30,12 +30,12 @@
         {
             this.button1 = new System.Windows.Forms.Button();
             this.class11 = new MainComp.Class1();
-            this.label1 = new System.Windows.Forms.Label();
+            this.LabelName = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(978, 8);
+            this.button1.Location = new System.Drawing.Point(949, 8);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 23);
             this.button1.TabIndex = 1;
@@ -61,22 +61,25 @@
             this.class11.TabIndex = 2;
             this.class11.Text = "class11";
             this.class11.TextAlfColor = System.Drawing.Color.White;
+            this.class11.OnEndGame += new System.EventHandler(this.class11_OnEndGame);
+            this.class11.OnWinGame += new System.EventHandler(this.class11_OnWinGame);
+            this.class11.OnClickButton += new System.EventHandler(this.class11_OnClickButton);
             // 
-            // label1
+            // LabelName
             // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(840, 13);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(103, 13);
-            this.label1.TabIndex = 3;
-            this.label1.Text = "Имя пользоватея -";
+            this.LabelName.AutoSize = true;
+            this.LabelName.Location = new System.Drawing.Point(807, 14);
+            this.LabelName.Name = "LabelName";
+            this.LabelName.Size = new System.Drawing.Size(103, 13);
+            this.LabelName.TabIndex = 3;
+            this.LabelName.Text = "Имя пользоватея -";
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1065, 791);
-            this.Controls.Add(this.label1);
+            this.ClientSize = new System.Drawing.Size(1047, 791);
+            this.Controls.Add(this.LabelName);
             this.Controls.Add(this.class11);
             this.Controls.Add(this.button1);
             this.Name = "Form1";
@@ -89,7 +92,7 @@
         #endregion
         private System.Windows.Forms.Button button1;
         private MainComp.Class1 class11;
-        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label LabelName;
     }
 }
 
